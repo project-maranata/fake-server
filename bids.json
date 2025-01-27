@@ -1,0 +1,98 @@
+{
+    "data": {
+      "bids": [
+        {
+          "documentId": "jnz2hij0bwgy87w2litfsvor",
+          "amount": 45358.50,
+          "user": {
+            "documentId": "ovibtbhkgppt437juk9vy7ae",
+            "username": "Carlos",
+            "email": "jr.carlosad@gmail.com"
+          },
+          "company": {
+            "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+            "name": "Betel",
+            "document": "45354554",
+            "uuid": "45354554",
+            "createdAt": "2024-11-10T02:52:43.566Z",
+            "updatedAt": "2024-11-10T02:52:43.566Z",
+            "publishedAt": "2024-11-10T02:52:43.583Z",
+            "logo": null
+          },
+          "ad": {
+            "documentId": "s7mhar925s9w41rxleexjdnu",
+            "title": "Palio",
+            "price": 34244,
+            "finaltouch": 7000,
+            "statusStep": "active",
+            "datelimit": "2024-11-30T03:15:00.000Z",
+            "address": {
+              "documentId": "2",
+              "postal_code": "07160540",
+              "street": "Rua Belem",
+              "state": "SP",
+              "city": "Guarulhos",
+              "neighborhood": "Jd Novo Portugal"
+            },
+            "vehicle": {
+              "fab": "2023-11-08",
+              "color": "Preto",
+              "km": 3324,
+              "highlight": {
+                "documentId": "m07c7hboo9f0yqv6j6m9fmh9",
+                "alternativeText": "Palio",
+                "url":
+                    "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
+              }
+            }
+          }
+        },
+        {
+          "documentId": "jnz2hij0bwgy82w2rlitfsvor",
+          "amount": 29293,
+          "user": {
+            "documentId": "ovibtbhkgppt437juk9vy7ae",
+            "username": "Carlos",
+            "email": "jr.carlosad@gmail.com"
+          },
+          "company": {
+            "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+            "name": "Betel",
+            "document": "45354554",
+            "uuid": "45354554",
+            "createdAt": "2024-11-10T02:52:43.566Z",
+            "updatedAt": "2024-11-10T02:52:43.566Z",
+            "publishedAt": "2024-11-10T02:52:43.583Z",
+            "logo": null
+          },
+          "ad": {
+            "documentId": "s7mhar925s9w41rxleexjdnu",
+            "title": "Palio",
+            "price": 34244,
+            "finaltouch": 7000,
+            "statusStep": "active",
+            "datelimit": "2024-11-30T03:15:00.000Z",
+            "address": {
+              "documentId": "2",
+              "postal_code": "07160540",
+              "street": "Rua Belem",
+              "state": "SP",
+              "city": "Guarulhos",
+              "neighborhood": "Jd Novo Portugal"
+            },
+            "vehicle": {
+              "fab": "2023-11-08",
+              "color": "Preto",
+              "km": 3324,
+              "highlight": {
+                "documentId": "m07c7hboo9f0yqv6j6m9fmh9",
+                "alternativeText": "Palio",
+                "url":
+                    "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
