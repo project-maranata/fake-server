@@ -1,0 +1,56 @@
+{
+    "data": {
+      "ad": {
+        "documentId": "s7mhar925s9w41rxleexjdnu",
+        "title": "Palio",
+        "price": 34244,
+        "finaltouch": 7000,
+        "statusStep": "active",
+        "datelimit": "2024-11-30T03:15:00.000Z",
+        "createdAt": "2024-11-10T02:51:19.094Z",
+        "updatedAt": "2024-11-10T02:51:19.094Z",
+        "publishedAt": "2024-11-10T02:51:19.112Z",
+        "address": {
+          "documentId": "2",
+          "postal_code": "07160540",
+          "street": "Rua Belem",
+          "state": "SP",
+          "city": "Guarulhos",
+          "neighborhood": "Jd Novo Portugal"
+        },
+        "vehicle": {
+          "documentId": "m07c7hboo9f0yqv6j6m9fmh9",
+          "model": "Palio",
+          "chassi": "342344",
+          "renavam": "32234",
+          "statusVehicle": "usado",
+          "license_plate": "324324",
+          "color_inner": "Preto",
+          "color": "Preto",
+          "fuel": "ALCOOL",
+          "transmission": "CVT",
+          "fab": "2023-11-08",
+          "proprietary": "proprio",
+          "km": 3324,
+          "createdAt": "2024-11-10T02:37:55.390Z",
+          "updatedAt": "2024-11-10T02:37:55.390Z",
+          "publishedAt": "2024-11-10T02:37:55.409Z",
+          "brand": null,
+          "highlight": {
+            "url":
+                "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
+          },
+          "photos": null
+        },
+        "company": {
+          "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+          "name": "Betel",
+          "document": "45354554",
+          "uuid": "45354554",
+          "createdAt": "2024-11-10T02:52:43.566Z",
+          "updatedAt": "2024-11-10T02:52:43.566Z",
+          "publishedAt": "2024-11-10T02:52:43.583Z"
+        }
+      }
+    }
+  }
