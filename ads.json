@@ -41,6 +41,46 @@
                     "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
               }
             }
+          },
+          {
+            "documentId": "s7mhar925s9w41rxlefdssu",
+            "title": "RENAULT KWID 2023",
+            "price": 34244,
+            "finaltouch": 7000,
+            "statusStep": "active",
+            "datelimit": "2024-11-30T03:15:00.000Z",
+            "createdAt": "2024-11-10T02:51:19.094Z",
+            "updatedAt": "2024-11-10T02:51:19.094Z",
+            "publishedAt": "2024-11-10T02:51:19.112Z",
+            "address": {
+              "documentId": "3",
+              "postal_code": "88034510",
+              "street": "Rua Itapuã",
+              "state": "SC",
+              "city": "Florianópolis",
+              "neighborhood": "Itacorubi"
+            },
+            "vehicle": {
+              "documentId": "dsfsfds32ew23ewdscxvewdsx",
+              "model": "RENAULT KWID",
+              "chassi": "7654321",
+              "renavam": "9876543213",
+              "statusVehicle": "usado",
+              "license_plate": "76754321",
+              "color_inner": "Preto",
+              "color": "Prata",
+              "fuel": "ALCOOL",
+              "transmission": "Manual",
+              "fab": "2023-12-18",
+              "proprietary": "proprio",
+              "km": 12529,
+              "highlight": {
+                "documentId": "m07332wesdfgdrew332mh9",
+                "alternativeText": "Renault Kwid",
+                "url":
+                    "https://production.autoforce.com/uploads/consortium/avatar/5221/model_main_webp_comprar-consorcio-do-seu-novo-kwid-e-tech-2023_d6191c4c80.png.webp"
+              }
+            }
           }
         ],
         "pageInfo": {
