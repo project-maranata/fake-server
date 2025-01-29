@@ -38,8 +38,8 @@
               "neighborhood": "Itacorubi"
             },
             "vehicle": {
-              "documentId": "dsfsfds323ewdscxvewdsx",
-              "model": "Nissan Kicks",
+              "documentId": "0002",
+              "model": "Nissan Kicks Active",
               "chassi": "7654321",
               "renavam": "9876543213",
               "statusVehicle": "usado",
@@ -53,7 +53,7 @@
               "km": 12529,
               "highlight": {
                 "documentId": "m07332wesdrew332mh9",
-                "alternativeText": "Kicks 2023",
+                "alternativeText": "Nissan Kicks Active",
                 "url":
                     "https://cdn.motor1.com/images/mgl/Akk9gN/s1/nissan-kicks-2023.jpg"
               }
@@ -79,8 +79,8 @@
             "logo": null
           },
           "ad": {
-            "documentId": "s7mhar925s9w41rxleexjdnu",
-            "title": "Palio 2023",
+            "documentId": "0001",
+            "title": "Palio Fire",
             "price": 34244,
             "finaltouch": 7000,
             "statusStep": "active",
@@ -98,8 +98,8 @@
               "color": "Preto",
               "km": 3324,
               "highlight": {
-                "documentId": "m07c7hboo9f0yqv6j6m9fmh9",
-                "alternativeText": "Palio",
+                "documentId": "0001",
+                "alternativeText": "Palio Fire",
                 "url":
                     "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
               }

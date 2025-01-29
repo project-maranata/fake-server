@@ -1,0 +1,53 @@
+{
+  "data": {
+    "ad": {
+      "documentId": "0003",
+      "title": "RENAULT KWID ZEN",
+      "price": 54000,
+      "finaltouch": 7000,
+      "statusStep": "active",
+      "datelimit": "2024-11-30T03:15:00.000Z",
+      "createdAt": "2024-11-10T02:51:19.094Z",
+      "updatedAt": "2024-11-10T02:51:19.094Z",
+      "publishedAt": "2024-11-10T02:51:19.112Z",
+      "address": {
+        "documentId": "3",
+        "postal_code": "88034510",
+        "street": "Rua Itapuã",
+        "state": "SC",
+        "city": "Florianópolis",
+        "neighborhood": "Itacorubi"
+      },
+      "vehicle": {
+        "documentId": "0003",
+        "model": "Renault Kwid Zen",
+        "chassi": "7654321",
+        "renavam": "9876543213",
+        "statusVehicle": "usado",
+        "license_plate": "76754321",
+        "color_inner": "Preto",
+        "color": "Prata",
+        "fuel": "ALCOOL",
+        "transmission": "Manual",
+        "fab": "2023-12-18",
+        "proprietary": "proprio",
+        "km": 12529,
+        "highlight": {
+          "documentId": "0001",
+          "alternativeText": "Renault Kwid",
+          "url": "https://production.autoforce.com/uploads/consortium/avatar/5221/model_main_webp_comprar-consorcio-do-seu-novo-kwid-e-tech-2023_d6191c4c80.png.webp"
+        },
+        "photos": null
+    },
+    "company": {
+      "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+      "name": "Betel",
+      "document": "45354554",
+      "uuid": "45354554",
+      "createdAt": "2024-11-10T02:52:43.566Z",
+      "updatedAt": "2024-11-10T02:52:43.566Z",
+      "publishedAt": "2024-11-10T02:52:43.583Z"
+    }
+  }
+}
+}
