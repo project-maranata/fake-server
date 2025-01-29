@@ -121,13 +121,130 @@
                     "https://production.autoforce.com/uploads/consortium/avatar/5221/model_main_webp_comprar-consorcio-do-seu-novo-kwid-e-tech-2023_d6191c4c80.png.webp"
               }
             }
+          },
+          {
+            "documentId": "ad004",
+            "title": "Hyundai HB20",
+            "price": 21662,
+            "finaltouch": 16507,
+            "statusStep": "active",
+            "datelimit": "2025-11-30T03:15:00.000Z",
+            "createdAt": "2025-01-01T10:00:00.000Z",
+            "updatedAt": "2025-01-01T10:00:00.000Z",
+            "publishedAt": "2025-01-01T10:00:00.000Z",
+            "address": {
+              "documentId": "17",
+              "postal_code": "12345678",
+              "street": "Rua D",
+              "state": "RS",
+              "city": "Rio de Janeiro",
+              "neighborhood": "Zona Leste"
+            },
+            "vehicle": {
+              "documentId": "vh159",
+              "model": "Hyundai HB20",
+              "chassi": "222893",
+              "renavam": "5665216812",
+              "statusVehicle": "usado",
+              "license_plate": "7749499",
+              "color_inner": "Azul",
+              "color": "Azul",
+              "fuel": "Gasolina",
+              "transmission": "Manual",
+              "fab": "2023-11-08",
+              "proprietary": "proprio",
+              "km": 23408,
+              "highlight": {
+                "documentId": "0001",
+                "alternativeText": "Hyundai HB20",
+                "url": "https://cdn.motor1.com/images/mgl/mM2EzB/s1/hyundai-hb20-limited-plus-vs.-peugeot-208-style.webp"
+              }
+            }
+          },
+          {
+            "documentId": "ad005",
+            "title": "Toyota Corolla",
+            "price": 62356,
+            "finaltouch": 7581,
+            "statusStep": "active",
+            "datelimit": "2025-11-30T03:15:00.000Z",
+            "createdAt": "2025-01-01T10:00:00.000Z",
+            "updatedAt": "2025-01-01T10:00:00.000Z",
+            "publishedAt": "2025-01-01T10:00:00.000Z",
+            "address": {
+              "documentId": "12",
+              "postal_code": "12345678",
+              "street": "Rua B",
+              "state": "MG",
+              "city": "Porto Alegre",
+              "neighborhood": "Zona Leste"
+            },
+            "vehicle": {
+              "documentId": "vh208",
+              "model": "Toyota Corolla",
+              "chassi": "539828",
+              "renavam": "6032733714",
+              "statusVehicle": "usado",
+              "license_plate": "8255291",
+              "color_inner": "Prata",
+              "color": "Vermelho",
+              "fuel": "Gasolina",
+              "transmission": "Automático",
+              "fab": "2023-11-08",
+              "proprietary": "proprio",
+              "km": 7673,
+              "highlight": {
+                "documentId": "0001",
+                "alternativeText": "Toyota Corolla",
+                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixX7ovs2XY3GgYa0nqSXYZznZfpkfbphS2SzmNhqKVCNHmIS5b1nGhhfz_GQhWy9B3sBJUcdd0BexdtgyNC-Fm7-iioBp3AaFOn8lpxWypk1CqFZNl6LQJTbSp9euf8oLx0PnNnubf5URbIXnhprb5P3Y0LvfC_yVgOxQpqrIbHej-b0N0TWcmP5NvjXmu/s2560/Corolla-2024-Hybrid.jpg"
+              }
+            }
+          },
+          {
+            "documentId": "ad006",
+            "title": "Ford Ka",
+            "price": 130779,
+            "finaltouch": 9284,
+            "statusStep": "active",
+            "datelimit": "2025-11-30T03:15:00.000Z",
+            "createdAt": "2025-01-01T10:00:00.000Z",
+            "updatedAt": "2025-01-01T10:00:00.000Z",
+            "publishedAt": "2025-01-01T10:00:00.000Z",
+            "address": {
+              "documentId": "13",
+              "postal_code": "12345678",
+              "street": "Rua C",
+              "state": "RJ",
+              "city": "Rio de Janeiro",
+              "neighborhood": "Zona Norte"
+            },
+            "vehicle": {
+              "documentId": "vh380",
+              "model": "Ford Ka",
+              "chassi": "638861",
+              "renavam": "1399633584",
+              "statusVehicle": "usado",
+              "license_plate": "1138781",
+              "color_inner": "Branco",
+              "color": "Preto",
+              "fuel": "Gasolina",
+              "transmission": "CVT",
+              "fab": "2023-11-08",
+              "proprietary": "proprio",
+              "km": 12332,
+              "highlight": {
+                "documentId": "0001",
+                "alternativeText": "Ford Ka",
+                "url": "https://garagemdoalan.com.br/wp-content/uploads/imgext/ford-ka-sedan--se-plus-1-5-2021--preco--consumo--desempenho-e-ficha-tecnica-foto-2024-03-03-16-54-30-165371819853212-garagem-do-alan-correa.webp"
+              }
+            }
           }
         ],
         "pageInfo": {
-          "total": 3,
+          "total": 6,
           "page": 1,
           "pageSize": 10,
-          "pageCount": 3
+          "pageCount": 1
         }
       }
     }
