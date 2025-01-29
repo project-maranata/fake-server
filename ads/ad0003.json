@@ -1,7 +1,7 @@
 {
   "data": {
     "ad": {
-      "documentId": "0003",
+      "documentId": "ad0003",
       "title": "RENAULT KWID ZEN",
       "price": 54000,
       "finaltouch": 7000,
@@ -19,7 +19,7 @@
         "neighborhood": "Itacorubi"
       },
       "vehicle": {
-        "documentId": "0003",
+        "documentId": "vh0003",
         "model": "Renault Kwid Zen",
         "chassi": "7654321",
         "renavam": "9876543213",

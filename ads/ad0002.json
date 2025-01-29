@@ -1,7 +1,7 @@
 {
   "data": {
     "ad": {
-      "documentId": "0002",
+      "documentId": "ad0002",
       "title": "Nissan Kicks Active",
       "price": 114500,
       "finaltouch": 117000,
@@ -19,7 +19,7 @@
         "neighborhood": "Itacorubi"
       },
       "vehicle": {
-        "documentId": "0002",
+        "documentId": "vh0002",
         "model": "Nissan Kicks Active",
         "chassi": "7654321",
         "renavam": "9876543213",

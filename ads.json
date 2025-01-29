@@ -3,7 +3,7 @@
       "ads_connection": {
         "nodes": [
           {
-            "documentId": "0001",
+            "documentId": "ad0001",
             "title": "Palio Fire",
             "price": 34244,
             "finaltouch": 40000,
@@ -21,7 +21,7 @@
               "neighborhood": "Jd Novo Portugal"
             },
             "vehicle": {
-              "documentId": "0001",
+              "documentId": "vh0001",
               "model": "Fiat Palio Fire",
               "chassi": "342344",
               "renavam": "32234",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "documentId": "0002",
+            "documentId": "ad0002",
             "title": "Nissan Kicks Active",
             "price": 114500,
             "finaltouch": 117000,
@@ -61,7 +61,7 @@
               "neighborhood": "Itacorubi"
             },
             "vehicle": {
-              "documentId": "0002",
+              "documentId": "vh0002",
               "model": "Nissan Kicks Active",
               "chassi": "7654321",
               "renavam": "9876543213",
@@ -83,7 +83,7 @@
             }
           },
           {
-            "documentId": "0003",
+            "documentId": "ad0003",
             "title": "Renault Kwid Zen",
             "price": 54000,
             "finaltouch": 7000,
@@ -101,7 +101,7 @@
               "neighborhood": "Itacorubi"
             },
             "vehicle": {
-              "documentId": "0003",
+              "documentId": "vh0003",
               "model": "Renault Kwid Zen",
               "chassi": "7654321",
               "renavam": "9876543213",

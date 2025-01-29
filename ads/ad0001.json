@@ -1,7 +1,7 @@
 {
     "data": {
       "ad": {
-        "documentId": "0001",
+        "documentId": "ad0001",
         "title": "Palio Fire",
         "price": 34244,
         "finaltouch": 7000,
@@ -19,7 +19,7 @@
           "neighborhood": "Jd Novo Portugal"
         },
         "vehicle": {
-          "documentId": "0001",
+          "documentId": "vh0001",
           "model": "Palio Fire",
           "chassi": "342344",
           "renavam": "32234",
