@@ -1,0 +1,57 @@
+{
+  "data": {
+    "ad": {
+      "documentId": "ad006",
+      "title": "Ford Ka",
+      "price": 130779,
+      "finaltouch": 9284,
+      "statusStep": "active",
+      "datelimit": "2025-11-30T03:15:00.000Z",
+      "createdAt": "2025-01-01T10:00:00.000Z",
+      "updatedAt": "2025-01-01T10:00:00.000Z",
+      "publishedAt": "2025-01-01T10:00:00.000Z",
+      "address": {
+        "documentId": "13",
+        "postal_code": "12345678",
+        "street": "Rua C",
+        "state": "RJ",
+        "city": "Rio de Janeiro",
+        "neighborhood": "Zona Norte"
+      },
+      "vehicle": {
+        "documentId": "vh380",
+        "model": "Ford Ka",
+        "chassi": "638861",
+        "renavam": "1399633584",
+        "statusVehicle": "usado",
+        "license_plate": "1138781",
+        "color_inner": "Branco",
+        "color": "Preto",
+        "fuel": "Gasolina",
+        "transmission": "CVT",
+        "fab": "2023-11-08",
+        "proprietary": "proprio",
+        "km": 12332,
+        "highlight": {
+          "documentId": "0001",
+          "alternativeText": "Ford Ka",
+          "url": "https://garagemdoalan.com.br/wp-content/uploads/imgext/ford-ka-sedan--se-plus-1-5-2021--preco--consumo--desempenho-e-ficha-tecnica-foto-2024-03-03-16-54-30-165371819853212-garagem-do-alan-correa.webp"
+        },
+        "createdAt": "2024-11-10T02:37:55.390Z",
+        "updatedAt": "2024-11-10T02:37:55.390Z",
+        "publishedAt": "2024-11-10T02:37:55.409Z",
+        "brand": null,
+        "photos": null
+      },
+      "company": {
+        "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+        "name": "Betel",
+        "document": "45354554",
+        "uuid": "45354554",
+        "createdAt": "2024-11-10T02:52:43.566Z",
+        "updatedAt": "2024-11-10T02:52:43.566Z",
+        "publishedAt": "2024-11-10T02:52:43.583Z"
+      }
+    }
+  }
+}

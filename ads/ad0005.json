@@ -1,0 +1,57 @@
+{
+  "data": {
+    "ad": {
+      "documentId": "ad005",
+      "title": "Toyota Corolla",
+      "price": 62356,
+      "finaltouch": 7581,
+      "statusStep": "active",
+      "datelimit": "2025-11-30T03:15:00.000Z",
+      "createdAt": "2025-01-01T10:00:00.000Z",
+      "updatedAt": "2025-01-01T10:00:00.000Z",
+      "publishedAt": "2025-01-01T10:00:00.000Z",
+      "address": {
+        "documentId": "12",
+        "postal_code": "12345678",
+        "street": "Rua B",
+        "state": "MG",
+        "city": "Porto Alegre",
+        "neighborhood": "Zona Leste"
+      },
+      "vehicle": {
+        "documentId": "vh208",
+        "model": "Toyota Corolla",
+        "chassi": "539828",
+        "renavam": "6032733714",
+        "statusVehicle": "usado",
+        "license_plate": "8255291",
+        "color_inner": "Prata",
+        "color": "Vermelho",
+        "fuel": "Gasolina",
+        "transmission": "Automático",
+        "fab": "2023-11-08",
+        "proprietary": "proprio",
+        "km": 7673,
+        "highlight": {
+          "documentId": "0001",
+          "alternativeText": "Toyota Corolla",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixX7ovs2XY3GgYa0nqSXYZznZfpkfbphS2SzmNhqKVCNHmIS5b1nGhhfz_GQhWy9B3sBJUcdd0BexdtgyNC-Fm7-iioBp3AaFOn8lpxWypk1CqFZNl6LQJTbSp9euf8oLx0PnNnubf5URbIXnhprb5P3Y0LvfC_yVgOxQpqrIbHej-b0N0TWcmP5NvjXmu/s2560/Corolla-2024-Hybrid.jpg"
+        },
+        "createdAt": "2024-11-10T02:37:55.390Z",
+        "updatedAt": "2024-11-10T02:37:55.390Z",
+        "publishedAt": "2024-11-10T02:37:55.409Z",
+        "brand": null,
+        "photos": null
+      },
+      "company": {
+        "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+        "name": "Betel",
+        "document": "45354554",
+        "uuid": "45354554",
+        "createdAt": "2024-11-10T02:52:43.566Z",
+        "updatedAt": "2024-11-10T02:52:43.566Z",
+        "publishedAt": "2024-11-10T02:52:43.583Z"
+      }
+    }
+  }
+}

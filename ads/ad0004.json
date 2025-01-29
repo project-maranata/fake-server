@@ -1,0 +1,57 @@
+{
+  "data": {
+    "ad": {
+      "documentId": "ad004",
+      "title": "Hyundai HB20",
+      "price": 21662,
+      "finaltouch": 16507,
+      "statusStep": "active",
+      "datelimit": "2025-11-30T03:15:00.000Z",
+      "createdAt": "2025-01-01T10:00:00.000Z",
+      "updatedAt": "2025-01-01T10:00:00.000Z",
+      "publishedAt": "2025-01-01T10:00:00.000Z",
+      "address": {
+        "documentId": "17",
+        "postal_code": "12345678",
+        "street": "Rua D",
+        "state": "RS",
+        "city": "Rio de Janeiro",
+        "neighborhood": "Zona Leste"
+      },
+      "vehicle": {
+        "documentId": "vh159",
+        "model": "Hyundai HB20",
+        "chassi": "222893",
+        "renavam": "5665216812",
+        "statusVehicle": "usado",
+        "license_plate": "7749499",
+        "color_inner": "Azul",
+        "color": "Azul",
+        "fuel": "Gasolina",
+        "transmission": "Manual",
+        "fab": "2023-11-08",
+        "proprietary": "proprio",
+        "km": 23408,
+        "highlight": {
+          "documentId": "0001",
+          "alternativeText": "Hyundai HB20",
+          "url": "https://cdn.motor1.com/images/mgl/mM2EzB/s1/hyundai-hb20-limited-plus-vs.-peugeot-208-style.webp"
+        },
+        "createdAt": "2024-11-10T02:37:55.390Z",
+        "updatedAt": "2024-11-10T02:37:55.390Z",
+        "publishedAt": "2024-11-10T02:37:55.409Z",
+        "brand": null,
+        "photos": null
+      },
+      "company": {
+        "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+        "name": "Betel",
+        "document": "45354554",
+        "uuid": "45354554",
+        "createdAt": "2024-11-10T02:52:43.566Z",
+        "updatedAt": "2024-11-10T02:52:43.566Z",
+        "publishedAt": "2024-11-10T02:52:43.583Z"
+      }
+    }
+  }
+}
