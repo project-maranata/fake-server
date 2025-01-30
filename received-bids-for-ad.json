@@ -14,8 +14,6 @@
           "state": "SC",
           "city": "Florianópolis",
           "country": "Brasil",
-          "latitude": -27.5973,
-          "longitude": -48.5254,
           "number": "100",
           "complement": "Próximo ao mercado",
           "neighborhood": "Itacorubi"
@@ -57,8 +55,6 @@
           "state": "SP",
           "city": "Guarulhos",
           "country": "Brasil",
-          "latitude": -23.4535,
-          "longitude": -46.5332,
           "number": "200",
           "complement": "Bloco B",
           "neighborhood": "Jd Novo Portugal"
