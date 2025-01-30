@@ -1,251 +1,248 @@
 {
-    "data": {
-      "ads_connection": {
-        "nodes": [
-          {
-            "documentId": "ad0001",
-            "title": "Palio Fire",
-            "price": 34244,
-            "finaltouch": 40000,
-            "statusStep": "active",
-            "datelimit": "2024-11-30T03:15:00.000Z",
-            "createdAt": "2024-11-10T02:51:19.094Z",
-            "updatedAt": "2024-11-10T02:51:19.094Z",
-            "publishedAt": "2024-11-10T02:51:19.112Z",
-            "address": {
-              "documentId": "2",
-              "postal_code": "07160540",
-              "street": "Rua Belem",
-              "state": "SP",
-              "city": "Guarulhos",
-              "neighborhood": "Jd Novo Portugal"
-            },
-            "vehicle": {
-              "documentId": "vh0001",
-              "model": "Fiat Palio Fire",
-              "chassi": "342344",
-              "renavam": "32234",
-              "statusVehicle": "usado",
-              "license_plate": "324324",
-              "color_inner": "Preto",
-              "color": "Prata",
-              "fuel": "ALCOOL",
-              "transmission": "CVT",
-              "fab": "2023-11-08",
-              "proprietary": "proprio",
-              "km": 3324,
-              "highlight": {
-                "documentId": "0001",
-                "alternativeText": "Palio",
-                "url":
-                    "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
-              }
-            }
+  "data": {
+    "ads_connection": {
+      "nodes": [
+        {
+          "documentId": "ad0001",
+          "title": "Palio Fire",
+          "price": 34244,
+          "finaltouch": 40000,
+          "statusStep": "active",
+          "datelimit": "2024-11-30T03:15:00.000Z",
+          "createdAt": "2024-11-10T02:51:19.094Z",
+          "updatedAt": "2024-11-10T02:51:19.094Z",
+          "publishedAt": "2024-11-10T02:51:19.112Z",
+          "address": {
+            "documentId": "2",
+            "postal_code": "07160540",
+            "street": "Rua Belem",
+            "state": "SP",
+            "city": "Guarulhos",
+            "neighborhood": "Jd Novo Portugal"
           },
-          {
-            "documentId": "ad0002",
-            "title": "Nissan Kicks Active",
-            "price": 114500,
-            "finaltouch": 117000,
-            "statusStep": "active",
-            "datelimit": "2024-11-30T03:15:00.000Z",
-            "createdAt": "2024-11-10T02:51:19.094Z",
-            "updatedAt": "2024-11-10T02:51:19.094Z",
-            "publishedAt": "2024-11-10T02:51:19.112Z",
-            "address": {
-              "documentId": "3",
-              "postal_code": "88034510",
-              "street": "Rua Itapuã",
-              "state": "SC",
-              "city": "Florianópolis",
-              "neighborhood": "Itacorubi"
-            },
-            "vehicle": {
-              "documentId": "vh0002",
-              "model": "Nissan Kicks Active",
-              "chassi": "7654321",
-              "renavam": "9876543213",
-              "statusVehicle": "usado",
-              "license_plate": "76754321",
-              "color_inner": "Preto",
-              "color": "Grafite",
-              "fuel": "FLEX",
-              "transmission": "CVT",
-              "fab": "2023-12-18",
-              "proprietary": "proprio",
-              "km": 12529,
-              "highlight": {
-                "documentId": "0001",
-                "alternativeText": "Kicks 2023",
-                "url":
-                    "https://cdn.motor1.com/images/mgl/Akk9gN/s1/nissan-kicks-2023.jpg"
-              }
-            }
-          },
-          {
-            "documentId": "ad0003",
-            "title": "Renault Kwid Zen",
-            "price": 54000,
-            "finaltouch": 7000,
-            "statusStep": "active",
-            "datelimit": "2024-11-30T03:15:00.000Z",
-            "createdAt": "2024-11-10T02:51:19.094Z",
-            "updatedAt": "2024-11-10T02:51:19.094Z",
-            "publishedAt": "2024-11-10T02:51:19.112Z",
-            "address": {
-              "documentId": "3",
-              "postal_code": "88034510",
-              "street": "Rua Itapuã",
-              "state": "SC",
-              "city": "Florianópolis",
-              "neighborhood": "Itacorubi"
-            },
-            "vehicle": {
-              "documentId": "vh0003",
-              "model": "Renault Kwid Zen",
-              "chassi": "7654321",
-              "renavam": "9876543213",
-              "statusVehicle": "usado",
-              "license_plate": "76754321",
-              "color_inner": "Preto",
-              "color": "Verde",
-              "fuel": "ALCOOL",
-              "transmission": "Manual",
-              "fab": "2023-12-18",
-              "proprietary": "proprio",
-              "km": 12529,
-              "highlight": {
-                "documentId": "0001",
-                "alternativeText": "Renault Kwid",
-                "url":
-                    "https://production.autoforce.com/uploads/consortium/avatar/5221/model_main_webp_comprar-consorcio-do-seu-novo-kwid-e-tech-2023_d6191c4c80.png.webp"
-              }
-            }
-          },
-          {
-            "documentId": "ad0004",
-            "title": "Hyundai HB20",
-            "price": 21662,
-            "finaltouch": 16507,
-            "statusStep": "active",
-            "datelimit": "2025-11-30T03:15:00.000Z",
-            "createdAt": "2025-01-01T10:00:00.000Z",
-            "updatedAt": "2025-01-01T10:00:00.000Z",
-            "publishedAt": "2025-01-01T10:00:00.000Z",
-            "address": {
-              "documentId": "17",
-              "postal_code": "12345678",
-              "street": "Rua D",
-              "state": "RS",
-              "city": "Rio de Janeiro",
-              "neighborhood": "Zona Leste"
-            },
-            "vehicle": {
-              "documentId": "vh159",
-              "model": "Hyundai HB20",
-              "chassi": "222893",
-              "renavam": "5665216812",
-              "statusVehicle": "usado",
-              "license_plate": "7749499",
-              "color_inner": "Preto",
-              "color": "Cinza",
-              "fuel": "Gasolina",
-              "transmission": "Manual",
-              "fab": "2023-11-08",
-              "proprietary": "proprio",
-              "km": 23408,
-              "highlight": {
-                "documentId": "0001",
-                "alternativeText": "Hyundai HB20",
-                "url": "https://cdn.motor1.com/images/mgl/mM2EzB/s1/hyundai-hb20-limited-plus-vs.-peugeot-208-style.webp"
-              }
-            }
-          },
-          {
-            "documentId": "ad0005",
-            "title": "Toyota Corolla",
-            "price": 62356,
-            "finaltouch": 7581,
-            "statusStep": "active",
-            "datelimit": "2025-11-30T03:15:00.000Z",
-            "createdAt": "2025-01-01T10:00:00.000Z",
-            "updatedAt": "2025-01-01T10:00:00.000Z",
-            "publishedAt": "2025-01-01T10:00:00.000Z",
-            "address": {
-              "documentId": "12",
-              "postal_code": "12345678",
-              "street": "Rua B",
-              "state": "MG",
-              "city": "Porto Alegre",
-              "neighborhood": "Zona Leste"
-            },
-            "vehicle": {
-              "documentId": "vh208",
-              "model": "Toyota Corolla",
-              "chassi": "539828",
-              "renavam": "6032733714",
-              "statusVehicle": "usado",
-              "license_plate": "8255291",
-              "color_inner": "Bege",
-              "color": "Prata",
-              "fuel": "Gasolina",
-              "transmission": "Automático",
-              "fab": "2023-11-08",
-              "proprietary": "proprio",
-              "km": 7673,
-              "highlight": {
-                "documentId": "0001",
-                "alternativeText": "Toyota Corolla",
-                "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixX7ovs2XY3GgYa0nqSXYZznZfpkfbphS2SzmNhqKVCNHmIS5b1nGhhfz_GQhWy9B3sBJUcdd0BexdtgyNC-Fm7-iioBp3AaFOn8lpxWypk1CqFZNl6LQJTbSp9euf8oLx0PnNnubf5URbIXnhprb5P3Y0LvfC_yVgOxQpqrIbHej-b0N0TWcmP5NvjXmu/s2560/Corolla-2024-Hybrid.jpg"
-              }
-            }
-          },
-          {
-            "documentId": "ad0006",
-            "title": "Ford Ka",
-            "price": 130779,
-            "finaltouch": 9284,
-            "statusStep": "active",
-            "datelimit": "2025-11-30T03:15:00.000Z",
-            "createdAt": "2025-01-01T10:00:00.000Z",
-            "updatedAt": "2025-01-01T10:00:00.000Z",
-            "publishedAt": "2025-01-01T10:00:00.000Z",
-            "address": {
-              "documentId": "13",
-              "postal_code": "12345678",
-              "street": "Rua C",
-              "state": "RJ",
-              "city": "Rio de Janeiro",
-              "neighborhood": "Zona Norte"
-            },
-            "vehicle": {
-              "documentId": "vh380",
-              "model": "Ford Ka",
-              "chassi": "638861",
-              "renavam": "1399633584",
-              "statusVehicle": "usado",
-              "license_plate": "1138781",
-              "color_inner": "Branco",
-              "color": "Preto",
-              "fuel": "Gasolina",
-              "transmission": "CVT",
-              "fab": "2023-11-08",
-              "proprietary": "proprio",
-              "km": 12332,
-              "highlight": {
-                "documentId": "0001",
-                "alternativeText": "Ford Ka",
-                "url": "https://garagemdoalan.com.br/wp-content/uploads/imgext/ford-ka-sedan--se-plus-1-5-2021--preco--consumo--desempenho-e-ficha-tecnica-foto-2024-03-03-16-54-30-165371819853212-garagem-do-alan-correa.webp"
-              }
+          "vehicle": {
+            "documentId": "vh0001",
+            "model": "Fiat Palio Fire",
+            "chassi": "342344",
+            "renavam": "32234",
+            "statusVehicle": "usado",
+            "license_plate": "324324",
+            "color_inner": "Preto",
+            "color": "Prata",
+            "fuel": "ALCOOL",
+            "transmission": "CVT",
+            "fab": "2023-11-08",
+            "proprietary": "proprio",
+            "km": 3324,
+            "highlight": {
+              "documentId": "0001",
+              "alternativeText": "Palio",
+              "url": "https://fotos.jornaldocarro.estadao.com.br/wp/jornal-do-carro/files/2011/10/Palio-ok.jpg"
             }
           }
-        ],
-        "pageInfo": {
-          "total": 6,
-          "page": 1,
-          "pageSize": 10,
-          "pageCount": 1
+        },
+        {
+          "documentId": "ad0002",
+          "title": "Nissan Kicks Active",
+          "price": 114500,
+          "finaltouch": 117000,
+          "statusStep": "active",
+          "datelimit": "2024-11-30T03:15:00.000Z",
+          "createdAt": "2024-11-10T02:51:19.094Z",
+          "updatedAt": "2024-11-10T02:51:19.094Z",
+          "publishedAt": "2024-11-10T02:51:19.112Z",
+          "address": {
+            "documentId": "3",
+            "postal_code": "88034510",
+            "street": "Rua Itapuã",
+            "state": "SC",
+            "city": "Florianópolis",
+            "neighborhood": "Itacorubi"
+          },
+          "vehicle": {
+            "documentId": "vh0002",
+            "model": "Nissan Kicks Active",
+            "chassi": "7654321",
+            "renavam": "9876543213",
+            "statusVehicle": "usado",
+            "license_plate": "76754321",
+            "color_inner": "Preto",
+            "color": "Grafite",
+            "fuel": "FLEX",
+            "transmission": "CVT",
+            "fab": "2023-12-18",
+            "proprietary": "proprio",
+            "km": 12529,
+            "highlight": {
+              "documentId": "0001",
+              "alternativeText": "Kicks 2023",
+              "url": "https://carro.blog.br/wp-content/uploads/2018/09/nissan-kicks-2019-chega-com-boa-ficha-tecnica-e-versao-pcd.jpg"
+            }
+          }
+        },
+        {
+          "documentId": "ad0003",
+          "title": "Renault Kwid Zen",
+          "price": 54000,
+          "finaltouch": 7000,
+          "statusStep": "active",
+          "datelimit": "2024-11-30T03:15:00.000Z",
+          "createdAt": "2024-11-10T02:51:19.094Z",
+          "updatedAt": "2024-11-10T02:51:19.094Z",
+          "publishedAt": "2024-11-10T02:51:19.112Z",
+          "address": {
+            "documentId": "3",
+            "postal_code": "88034510",
+            "street": "Rua Itapuã",
+            "state": "SC",
+            "city": "Florianópolis",
+            "neighborhood": "Itacorubi"
+          },
+          "vehicle": {
+            "documentId": "vh0003",
+            "model": "Renault Kwid Zen",
+            "chassi": "7654321",
+            "renavam": "9876543213",
+            "statusVehicle": "usado",
+            "license_plate": "76754321",
+            "color_inner": "Preto",
+            "color": "Verde",
+            "fuel": "ALCOOL",
+            "transmission": "Manual",
+            "fab": "2023-12-18",
+            "proprietary": "proprio",
+            "km": 12529,
+            "highlight": {
+              "documentId": "0001",
+              "alternativeText": "Renault Kwid",
+              "url": "https://production.autoforce.com/uploads/consortium/avatar/5221/model_main_webp_comprar-consorcio-do-seu-novo-kwid-e-tech-2023_d6191c4c80.png.webp"
+            }
+          }
+        },
+        {
+          "documentId": "ad0004",
+          "title": "Hyundai HB20",
+          "price": 21662,
+          "finaltouch": 16507,
+          "statusStep": "active",
+          "datelimit": "2025-11-30T03:15:00.000Z",
+          "createdAt": "2025-01-01T10:00:00.000Z",
+          "updatedAt": "2025-01-01T10:00:00.000Z",
+          "publishedAt": "2025-01-01T10:00:00.000Z",
+          "address": {
+            "documentId": "17",
+            "postal_code": "12345678",
+            "street": "Rua D",
+            "state": "RS",
+            "city": "Rio de Janeiro",
+            "neighborhood": "Zona Leste"
+          },
+          "vehicle": {
+            "documentId": "vh159",
+            "model": "Hyundai HB20",
+            "chassi": "222893",
+            "renavam": "5665216812",
+            "statusVehicle": "usado",
+            "license_plate": "7749499",
+            "color_inner": "Preto",
+            "color": "Cinza",
+            "fuel": "Gasolina",
+            "transmission": "Manual",
+            "fab": "2023-11-08",
+            "proprietary": "proprio",
+            "km": 23408,
+            "highlight": {
+              "documentId": "0001",
+              "alternativeText": "Hyundai HB20",
+              "url": "https://www.comprecar.com.br/storage/news/featured/4d8c862f-7f49-4960-9986-7cfb682702b5.jpeg"
+            }
+          }
+        },
+        {
+          "documentId": "ad0005",
+          "title": "Toyota Corolla",
+          "price": 62356,
+          "finaltouch": 7581,
+          "statusStep": "active",
+          "datelimit": "2025-11-30T03:15:00.000Z",
+          "createdAt": "2025-01-01T10:00:00.000Z",
+          "updatedAt": "2025-01-01T10:00:00.000Z",
+          "publishedAt": "2025-01-01T10:00:00.000Z",
+          "address": {
+            "documentId": "12",
+            "postal_code": "12345678",
+            "street": "Rua B",
+            "state": "MG",
+            "city": "Porto Alegre",
+            "neighborhood": "Zona Leste"
+          },
+          "vehicle": {
+            "documentId": "vh208",
+            "model": "Toyota Corolla",
+            "chassi": "539828",
+            "renavam": "6032733714",
+            "statusVehicle": "usado",
+            "license_plate": "8255291",
+            "color_inner": "Bege",
+            "color": "Prata",
+            "fuel": "Gasolina",
+            "transmission": "Automático",
+            "fab": "2023-11-08",
+            "proprietary": "proprio",
+            "km": 7673,
+            "highlight": {
+              "documentId": "0001",
+              "alternativeText": "Toyota Corolla",
+              "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixX7ovs2XY3GgYa0nqSXYZznZfpkfbphS2SzmNhqKVCNHmIS5b1nGhhfz_GQhWy9B3sBJUcdd0BexdtgyNC-Fm7-iioBp3AaFOn8lpxWypk1CqFZNl6LQJTbSp9euf8oLx0PnNnubf5URbIXnhprb5P3Y0LvfC_yVgOxQpqrIbHej-b0N0TWcmP5NvjXmu/s2560/Corolla-2024-Hybrid.jpg"
+            }
+          }
+        },
+        {
+          "documentId": "ad0006",
+          "title": "Ford Ka",
+          "price": 130779,
+          "finaltouch": 9284,
+          "statusStep": "active",
+          "datelimit": "2025-11-30T03:15:00.000Z",
+          "createdAt": "2025-01-01T10:00:00.000Z",
+          "updatedAt": "2025-01-01T10:00:00.000Z",
+          "publishedAt": "2025-01-01T10:00:00.000Z",
+          "address": {
+            "documentId": "13",
+            "postal_code": "12345678",
+            "street": "Rua C",
+            "state": "RJ",
+            "city": "Rio de Janeiro",
+            "neighborhood": "Zona Norte"
+          },
+          "vehicle": {
+            "documentId": "vh380",
+            "model": "Ford Ka",
+            "chassi": "638861",
+            "renavam": "1399633584",
+            "statusVehicle": "usado",
+            "license_plate": "1138781",
+            "color_inner": "Branco",
+            "color": "Preto",
+            "fuel": "Gasolina",
+            "transmission": "CVT",
+            "fab": "2023-11-08",
+            "proprietary": "proprio",
+            "km": 12332,
+            "highlight": {
+              "documentId": "0001",
+              "alternativeText": "Ford Ka",
+              "url": "https://s2-autoesporte.glbimg.com/WFrBOaf8_FQBeSDWnbPMg7HzPAA=/0x0:620x413/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2020/a/R/aakUmYQfAKkDd0pOHhaQ/2018-07-24-ford-ka-sedan-autoesporte-12.jpg"
+            }
+          }
         }
+      ],
+      "pageInfo": {
+        "total": 6,
+        "page": 1,
+        "pageSize": 10,
+        "pageCount": 1
       }
     }
   }
+}

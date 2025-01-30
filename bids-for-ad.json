@@ -1,90 +1,89 @@
 {
-    "data": {
-      "bids": [
-        {
-          "documentId": "mzuk8c2run4c9nzviahhhrz6",
-          "user": {
-            "username": "Mauricio",
-            "documentId": "ovibtbhkgppt437juk21",
-            "email": "mau@gmail.com"
-          },
-          "amount": 40000,
-          "company": {
-            "documentId": "qehtvnqts1cfk2672bbdsh",
-            "name": "Sul Carros",
-            "document": "4532354554",
-            "uuid": "4535455234",
-            "createdAt": "2024-11-10T02:52:43.566Z",
-            "updatedAt": "2024-11-10T02:52:43.566Z",
-            "publishedAt": "2024-11-10T02:52:43.583Z",
-            "logo": null
-          }
+  "data": {
+    "bids": [
+      {
+        "documentId": "mzuk8c2run4c9nzviahhhrz6",
+        "user": {
+          "username": "Mauricio",
+          "documentId": "ovibtbhkgppt437juk21",
+          "email": "mau@gmail.com"
         },
-        {
-          "documentId": "npg8vmceod590ck0cnqpq9tj",
-          "user": {
-            "username": "Maria",
-            "documentId": "sjandiauhdapt437juk21",
-            "email": "maria@gmail.com"
-          },
-          "amount": 35000,
-          "company": {
-            "documentId": "apak3ndk3n2kls2ndl9",
-            "name": "Betel Veículos",
-            "document": "4535455421",
-            "uuid": "4535455421",
-            "createdAt": "2024-11-10T02:52:43.566Z",
-            "updatedAt": "2024-11-10T02:52:43.566Z",
-            "publishedAt": "2024-11-10T02:52:43.583Z",
-            "logo": null
-          }
-        },
-        {
-          "documentId": "dfbqraj8v2z0ps73ebtknsav",
-          "user": {
-            "documentId": "ovibtbhkgppt437juk9vy7ae",
-            "username": "Carlos",
-            "email": "jr.carlosad@gmail.com"
-          },
-          "amount": 30000,
-          "company": {
-            "documentId": "qehtvnqts1cfkgkcsz57l2lm",
-            "name": "Floripa motors",
-            "document": "45354554",
-            "uuid": "45354554",
-            "createdAt": "2024-11-10T02:52:43.566Z",
-            "updatedAt": "2024-11-10T02:52:43.566Z",
-            "publishedAt": "2024-11-10T02:52:43.583Z",
-            "logo": null
-          }
+        "amount": 40000,
+        "company": {
+          "documentId": "qehtvnqts1cfk2672bbdsh",
+          "name": "Sul Carros",
+          "document": "4532354554",
+          "uuid": "4535455234",
+          "createdAt": "2024-11-10T02:52:43.566Z",
+          "updatedAt": "2024-11-10T02:52:43.566Z",
+          "publishedAt": "2024-11-10T02:52:43.583Z",
+          "logo": null
         }
-      ],
-      "ad": {
-        "documentId": "ad0001",
-        "title": "Palio Fire",
-        "price": 34244,
-        "finaltouch": 7000,
-        "statusStep": "active",
-        "datelimit": "2024-11-30T03:15:00.000Z",
-        "address": {
-          "documentId": "2",
-          "postal_code": "07160540",
-          "street": "Rua Belem",
-          "state": "SP",
-          "city": "Guarulhos",
-          "neighborhood": "Jd Novo Portugal"
+      },
+      {
+        "documentId": "npg8vmceod590ck0cnqpq9tj",
+        "user": {
+          "username": "Maria",
+          "documentId": "sjandiauhdapt437juk21",
+          "email": "maria@gmail.com"
         },
-        "vehicle": {
-          "fab": "2023-11-08",
-          "color": "Preto",
-          "km": 3324,
-          "highlight": {
-            "documentId": "0001",
-            "alternativeText": "Palio",
-            "url":
-                "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
-          }
+        "amount": 35000,
+        "company": {
+          "documentId": "apak3ndk3n2kls2ndl9",
+          "name": "Betel Veículos",
+          "document": "4535455421",
+          "uuid": "4535455421",
+          "createdAt": "2024-11-10T02:52:43.566Z",
+          "updatedAt": "2024-11-10T02:52:43.566Z",
+          "publishedAt": "2024-11-10T02:52:43.583Z",
+          "logo": null
+        }
+      },
+      {
+        "documentId": "dfbqraj8v2z0ps73ebtknsav",
+        "user": {
+          "documentId": "ovibtbhkgppt437juk9vy7ae",
+          "username": "Carlos",
+          "email": "jr.carlosad@gmail.com"
+        },
+        "amount": 30000,
+        "company": {
+          "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+          "name": "Floripa motors",
+          "document": "45354554",
+          "uuid": "45354554",
+          "createdAt": "2024-11-10T02:52:43.566Z",
+          "updatedAt": "2024-11-10T02:52:43.566Z",
+          "publishedAt": "2024-11-10T02:52:43.583Z",
+          "logo": null
+        }
+      }
+    ],
+    "ad": {
+      "documentId": "ad0001",
+      "title": "Palio Fire",
+      "price": 34244,
+      "finaltouch": 7000,
+      "statusStep": "active",
+      "datelimit": "2024-11-30T03:15:00.000Z",
+      "address": {
+        "documentId": "2",
+        "postal_code": "07160540",
+        "street": "Rua Belem",
+        "state": "SP",
+        "city": "Guarulhos",
+        "neighborhood": "Jd Novo Portugal"
+      },
+      "vehicle": {
+        "fab": "2023-11-08",
+        "color": "Preto",
+        "km": 3324,
+        "highlight": {
+          "documentId": "0001",
+          "alternativeText": "Palio",
+          "url": "https://fotos.jornaldocarro.estadao.com.br/wp/jornal-do-carro/files/2011/10/Palio-ok.jpg"
         }
       }
     }
   }
+}

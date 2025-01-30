@@ -39,19 +39,19 @@
         "highlight": {
           "documentId": "0001",
           "alternativeText": "Kicks 2023",
-          "url": "https://cdn.motor1.com/images/mgl/Akk9gN/s1/nissan-kicks-2023.jpg"
+          "url": "https://carro.blog.br/wp-content/uploads/2018/09/nissan-kicks-2019-chega-com-boa-ficha-tecnica-e-versao-pcd.jpg"
         },
-      "photos": null
-    },
-    "company": {
-      "documentId": "qehtvnqts1cfkgkcsz57l2lm",
-      "name": "Betel",
-      "document": "45354554",
-      "uuid": "45354554",
-      "createdAt": "2024-11-10T02:52:43.566Z",
-      "updatedAt": "2024-11-10T02:52:43.566Z",
-      "publishedAt": "2024-11-10T02:52:43.583Z"
+        "photos": null
+      },
+      "company": {
+        "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+        "name": "Betel",
+        "document": "45354554",
+        "uuid": "45354554",
+        "createdAt": "2024-11-10T02:52:43.566Z",
+        "updatedAt": "2024-11-10T02:52:43.566Z",
+        "publishedAt": "2024-11-10T02:52:43.583Z"
+      }
     }
   }
-}
 }

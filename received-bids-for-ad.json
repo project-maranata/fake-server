@@ -1,93 +1,92 @@
 {
-    "data": {
-      "ads": [
-        {
-          "documentId": "s7mhars9w41rxlefdssu",
-          "price": 114500,
-          "finaltouch": 117000,
-          "statusStep": "active",
-          "datelimit": "2024-11-30T03:15:00.000Z",
-          "address": {
-            "id": "3",
-            "postal_code": "88034510",
-            "street": "Rua Itapuã",
-            "state": "SC",
-            "city": "Florianópolis",
-            "country": "Brasil",
-            "latitude": -27.5973,
-            "longitude": -48.5254,
-            "number": "100",
-            "complement": "Próximo ao mercado",
-            "neighborhood": "Itacorubi"
-          },
-          "vehicle": {
-            "fab": "2023-12-18",
-            "model": "Kicks",
-            "brand": {
-                "documentId": "12",
-                "name": "Nissan",
-                "image": {
-                    "url": ""
-                }
-            },
-            "km": 12529,
-            "highlight": {
-              "url": "https://cdn.motor1.com/images/mgl/Akk9gN/s1/nissan-kicks-2023.jpg"
-            }
-          },
-          "bids": [
-            {
-              "documentId": "jnz2hij0bwgy82litfsvor",
-              "amount": 109400,
-              "createdAt": "2024-11-10T02:52:43.566Z",
-              "status": "Superado"
-            }
-          ]
+  "data": {
+    "ads": [
+      {
+        "documentId": "s7mhars9w41rxlefdssu",
+        "price": 114500,
+        "finaltouch": 117000,
+        "statusStep": "active",
+        "datelimit": "2024-11-30T03:15:00.000Z",
+        "address": {
+          "id": "3",
+          "postal_code": "88034510",
+          "street": "Rua Itapuã",
+          "state": "SC",
+          "city": "Florianópolis",
+          "country": "Brasil",
+          "latitude": -27.5973,
+          "longitude": -48.5254,
+          "number": "100",
+          "complement": "Próximo ao mercado",
+          "neighborhood": "Itacorubi"
         },
-        {
-          "documentId": "s7mhar925s9w41rxleexjdnu",
-          "price": 34244,
-          "finaltouch": 7000,
-          "statusStep": "active",
-          "datelimit": "2024-11-30T03:15:00.000Z",
-          "address": {
-            "id": "2",
-            "postal_code": "07160540",
-            "street": "Rua Belem",
-            "state": "SP",
-            "city": "Guarulhos",
-            "country": "Brasil",
-            "latitude": -23.4535,
-            "longitude": -46.5332,
-            "number": "200",
-            "complement": "Bloco B",
-            "neighborhood": "Jd Novo Portugal"
-          },
-          "vehicle": {
-            "fab": "2023-11-08",
-            "km": 3324,
-            "model": "Palio",
-            "brand": {
-                "documentId": "12",
-                "name": "Fiat",
-                "image": {
-                    "url": ""
-                }
-            },
-            "highlight": {
-              "url": "https://i0.statig.com.br/bancodeimagens/ed/1p/h9/ed1ph9jy3efw120s8tne6p91l.jpg"
+        "vehicle": {
+          "fab": "2023-12-18",
+          "model": "Kicks",
+          "brand": {
+            "documentId": "12",
+            "name": "Nissan",
+            "image": {
+              "url": ""
             }
           },
-          "bids": [
-            {
-              "documentId": "jnz2hij0bwgy87w2litfsvor",
-              "amount": 45358.50,
-              "createdAt": "2024-11-10T02:52:43.566Z",
-              "status": "Liderando"
+          "km": 12529,
+          "highlight": {
+            "url": "https://carro.blog.br/wp-content/uploads/2018/09/nissan-kicks-2019-chega-com-boa-ficha-tecnica-e-versao-pcd.jpg"
+          }
+        },
+        "bids": [
+          {
+            "documentId": "jnz2hij0bwgy82litfsvor",
+            "amount": 109400,
+            "createdAt": "2024-11-10T02:52:43.566Z",
+            "status": "Superado"
+          }
+        ]
+      },
+      {
+        "documentId": "s7mhar925s9w41rxleexjdnu",
+        "price": 34244,
+        "finaltouch": 7000,
+        "statusStep": "active",
+        "datelimit": "2024-11-30T03:15:00.000Z",
+        "address": {
+          "id": "2",
+          "postal_code": "07160540",
+          "street": "Rua Belem",
+          "state": "SP",
+          "city": "Guarulhos",
+          "country": "Brasil",
+          "latitude": -23.4535,
+          "longitude": -46.5332,
+          "number": "200",
+          "complement": "Bloco B",
+          "neighborhood": "Jd Novo Portugal"
+        },
+        "vehicle": {
+          "fab": "2023-11-08",
+          "km": 3324,
+          "model": "Palio",
+          "brand": {
+            "documentId": "12",
+            "name": "Fiat",
+            "image": {
+              "url": ""
             }
-          ]
-        }
-      ]
-    }
+          },
+          "highlight": {
+            "url": "https://fotos.jornaldocarro.estadao.com.br/wp/jornal-do-carro/files/2011/10/Palio-ok.jpg"
+          }
+        },
+        "bids": [
+          {
+            "documentId": "jnz2hij0bwgy87w2litfsvor",
+            "amount": 45358.50,
+            "createdAt": "2024-11-10T02:52:43.566Z",
+            "status": "Liderando"
+          }
+        ]
+      }
+    ]
   }
-  
+}
