@@ -1,0 +1,14 @@
+{
+    "data": {
+        "bids": [
+            {
+                "documentId": "bidM0003",
+                "amount": 45358.50
+            },
+            {
+                "documentId": "bidM0002",
+                "amount": 42358.50
+            }
+        ]
+    }
+}
