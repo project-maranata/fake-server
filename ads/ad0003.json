@@ -20,7 +20,7 @@
       },
       "vehicle": {
         "documentId": "vh0003",
-        "model": "Renault Kwid Zen",
+        "model": "Kwid Zen",
         "chassi": "7654321",
         "renavam": "9876543213",
         "statusVehicle": "usado",
@@ -35,7 +35,13 @@
         "createdAt": "2024-11-10T02:37:55.390Z",
         "updatedAt": "2024-11-10T02:37:55.390Z",
         "publishedAt": "2024-11-10T02:37:55.409Z",
-        "brand": null,
+        "brand": {
+          "documentId": "12",
+          "name": "Renault",
+          "image": {
+            "url": ""
+          }
+        },
         "highlight": {
           "documentId": "0001",
           "alternativeText": "Renault Kwid",

@@ -20,7 +20,7 @@
       },
       "vehicle": {
         "documentId": "vh159",
-        "model": "Hyundai HB20",
+        "model": "HB20",
         "chassi": "222893",
         "renavam": "5665216812",
         "statusVehicle": "usado",
@@ -32,6 +32,13 @@
         "fab": "2023-11-08",
         "proprietary": "proprio",
         "km": 23408,
+        "brand": {
+          "documentId": "12",
+          "name": "Hyundai",
+          "image": {
+            "url": ""
+          }
+        },
         "highlight": {
           "documentId": "0001",
           "alternativeText": "Hyundai HB20",
@@ -40,7 +47,6 @@
         "createdAt": "2024-11-10T02:37:55.390Z",
         "updatedAt": "2024-11-10T02:37:55.390Z",
         "publishedAt": "2024-11-10T02:37:55.409Z",
-        "brand": null,
         "photos": null
       },
       "company": {

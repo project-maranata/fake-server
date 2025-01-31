@@ -39,7 +39,7 @@
           },
           "vehicle": {
             "documentId": "vh0002",
-            "model": "Nissan Kicks Active",
+            "model": "Kicks Active",
             "chassi": "7654321",
             "renavam": "9876543213",
             "statusVehicle": "usado",
@@ -51,6 +51,13 @@
             "fab": "2023-12-18",
             "proprietary": "proprio",
             "km": 12529,
+            "brand": {
+              "documentId": "12",
+              "name": "Nissan",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "m07332wesdrew332mh9",
               "alternativeText": "Nissan Kicks Active",
@@ -97,6 +104,14 @@
             "fab": "2023-11-08",
             "color": "Preto",
             "km": 3324,
+            "model": "Palio Fire",
+            "brand": {
+              "documentId": "12",
+              "name": "Fiat",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "0001",
               "alternativeText": "Palio Fire",

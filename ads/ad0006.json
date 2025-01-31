@@ -20,7 +20,7 @@
       },
       "vehicle": {
         "documentId": "vh380",
-        "model": "Ford Ka",
+        "model": "Ka",
         "chassi": "638861",
         "renavam": "1399633584",
         "statusVehicle": "usado",
@@ -32,6 +32,13 @@
         "fab": "2023-11-08",
         "proprietary": "proprio",
         "km": 12332,
+        "brand": {
+          "documentId": "12",
+          "name": "Ford",
+          "image": {
+            "url": ""
+          }
+        },
         "highlight": {
           "documentId": "0001",
           "alternativeText": "Ford Ka",
@@ -40,7 +47,6 @@
         "createdAt": "2024-11-10T02:37:55.390Z",
         "updatedAt": "2024-11-10T02:37:55.390Z",
         "publishedAt": "2024-11-10T02:37:55.409Z",
-        "brand": null,
         "photos": null
       },
       "company": {

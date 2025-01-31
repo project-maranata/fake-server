@@ -32,6 +32,13 @@
         "fab": "2023-11-08",
         "proprietary": "proprio",
         "km": 3324,
+        "brand": {
+          "documentId": "12",
+          "name": "Fiat",
+          "image": {
+            "url": ""
+          }
+        },
         "highlight": {
           "documentId": "0001",
           "alternativeText": "Palio",

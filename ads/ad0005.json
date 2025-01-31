@@ -20,7 +20,7 @@
       },
       "vehicle": {
         "documentId": "vh208",
-        "model": "Toyota Corolla",
+        "model": "Corolla",
         "chassi": "539828",
         "renavam": "6032733714",
         "statusVehicle": "usado",
@@ -32,6 +32,13 @@
         "fab": "2023-11-08",
         "proprietary": "proprio",
         "km": 7673,
+        "brand": {
+          "documentId": "12",
+          "name": "Toyota",
+          "image": {
+            "url": ""
+          }
+        },
         "highlight": {
           "documentId": "0001",
           "alternativeText": "Toyota Corolla",
@@ -40,7 +47,6 @@
         "createdAt": "2024-11-10T02:37:55.390Z",
         "updatedAt": "2024-11-10T02:37:55.390Z",
         "publishedAt": "2024-11-10T02:37:55.409Z",
-        "brand": null,
         "photos": null
       },
       "company": {

@@ -22,7 +22,7 @@
           },
           "vehicle": {
             "documentId": "vh0001",
-            "model": "Fiat Palio Fire",
+            "model": "Palio Fire",
             "chassi": "342344",
             "renavam": "32234",
             "statusVehicle": "usado",
@@ -34,6 +34,13 @@
             "fab": "2023-11-08",
             "proprietary": "proprio",
             "km": 3324,
+            "brand": {
+              "documentId": "12",
+              "name": "Fiat",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "0001",
               "alternativeText": "Palio",
@@ -61,7 +68,7 @@
           },
           "vehicle": {
             "documentId": "vh0002",
-            "model": "Nissan Kicks Active",
+            "model": "Kicks Active",
             "chassi": "7654321",
             "renavam": "9876543213",
             "statusVehicle": "usado",
@@ -73,6 +80,13 @@
             "fab": "2023-12-18",
             "proprietary": "proprio",
             "km": 12529,
+            "brand": {
+              "documentId": "13",
+              "name": "Nissan",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "0001",
               "alternativeText": "Kicks 2023",
@@ -100,7 +114,7 @@
           },
           "vehicle": {
             "documentId": "vh0003",
-            "model": "Renault Kwid Zen",
+            "model": "Kwid Zen",
             "chassi": "7654321",
             "renavam": "9876543213",
             "statusVehicle": "usado",
@@ -112,6 +126,13 @@
             "fab": "2023-12-18",
             "proprietary": "proprio",
             "km": 12529,
+            "brand": {
+              "documentId": "12",
+              "name": "Renault",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "0001",
               "alternativeText": "Renault Kwid",
@@ -139,7 +160,7 @@
           },
           "vehicle": {
             "documentId": "vh159",
-            "model": "Hyundai HB20",
+            "model": "HB20",
             "chassi": "222893",
             "renavam": "5665216812",
             "statusVehicle": "usado",
@@ -151,6 +172,13 @@
             "fab": "2023-11-08",
             "proprietary": "proprio",
             "km": 23408,
+            "brand": {
+              "documentId": "12",
+              "name": "Hyundai",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "0001",
               "alternativeText": "Hyundai HB20",
@@ -178,7 +206,7 @@
           },
           "vehicle": {
             "documentId": "vh208",
-            "model": "Toyota Corolla",
+            "model": "Corolla",
             "chassi": "539828",
             "renavam": "6032733714",
             "statusVehicle": "usado",
@@ -190,6 +218,13 @@
             "fab": "2023-11-08",
             "proprietary": "proprio",
             "km": 7673,
+            "brand": {
+              "documentId": "12",
+              "name": "Toyota",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "0001",
               "alternativeText": "Toyota Corolla",
@@ -217,7 +252,7 @@
           },
           "vehicle": {
             "documentId": "vh380",
-            "model": "Ford Ka",
+            "model": "Ka",
             "chassi": "638861",
             "renavam": "1399633584",
             "statusVehicle": "usado",
@@ -229,6 +264,13 @@
             "fab": "2023-11-08",
             "proprietary": "proprio",
             "km": 12332,
+            "brand": {
+              "documentId": "12",
+              "name": "Ford",
+              "image": {
+                "url": ""
+              }
+            },
             "highlight": {
               "documentId": "0001",
               "alternativeText": "Ford Ka",
