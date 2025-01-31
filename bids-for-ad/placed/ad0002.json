@@ -35,13 +35,16 @@
         },
         "bids": [
             {
-                "documentId": "mzuk8c2run4c9nzviahhhrz6",
+                "documentId": "bidM0003",
+                "amount": 116000,
+                "createdAt": "2024-11-12T14:52:43.566Z",
+                "updatedAt": "2024-11-12T14:52:43.566Z",
+                "publishedAt": "2024-11-10T14:52:43.583Z",
                 "user": {
                     "username": "Mauricio",
                     "documentId": "ovibtbhkgppt437juk21",
                     "email": "mau@gmail.com"
                 },
-                "amount": 40000,
                 "company": {
                     "documentId": "qehtvnqts1cfk2672bbdsh",
                     "name": "Sul Carros",
@@ -54,18 +57,21 @@
                 }
             },
             {
-                "documentId": "npg8vmceod590ck0cnqpq9tj",
+                "documentId": "bidM0002",
+                "amount": 115500,
+                "createdAt": "2024-11-12T02:52:43.566Z",
+                "updatedAt": "2024-11-12T02:52:43.566Z",
+                "publishedAt": "2024-11-10T02:52:43.583Z",
                 "user": {
-                    "username": "Maria",
-                    "documentId": "sjandiauhdapt437juk21",
-                    "email": "maria@gmail.com"
+                    "username": "Mauricio",
+                    "documentId": "ovibtbhkgppt437juk21",
+                    "email": "mau@gmail.com"
                 },
-                "amount": 35000,
                 "company": {
-                    "documentId": "apak3ndk3n2kls2ndl9",
-                    "name": "Betel Veículos",
-                    "document": "4535455421",
-                    "uuid": "4535455421",
+                    "documentId": "qehtvnqts1cfk2672bbdsh",
+                    "name": "Sul Carros",
+                    "document": "4532354554",
+                    "uuid": "4535455234",
                     "createdAt": "2024-11-10T02:52:43.566Z",
                     "updatedAt": "2024-11-10T02:52:43.566Z",
                     "publishedAt": "2024-11-10T02:52:43.583Z",
@@ -73,18 +79,21 @@
                 }
             },
             {
-                "documentId": "dfbqraj8v2z0ps73ebtknsav",
+                "documentId": "bidM0001",
+                "amount": 114500,
+                "createdAt": "2024-11-10T02:52:43.566Z",
+                "updatedAt": "2024-11-10T02:52:43.566Z",
+                "publishedAt": "2024-11-10T02:52:43.583Z",
                 "user": {
-                    "documentId": "ovibtbhkgppt437juk9vy7ae",
-                    "username": "Carlos",
-                    "email": "jr.carlosad@gmail.com"
+                    "username": "Mauricio",
+                    "documentId": "ovibtbhkgppt437juk21",
+                    "email": "mau@gmail.com"
                 },
-                "amount": 30000,
                 "company": {
-                    "documentId": "qehtvnqts1cfkgkcsz57l2lm",
-                    "name": "Floripa motors",
-                    "document": "45354554",
-                    "uuid": "45354554",
+                    "documentId": "qehtvnqts1cfk2672bbdsh",
+                    "name": "Sul Carros",
+                    "document": "4532354554",
+                    "uuid": "4535455234",
                     "createdAt": "2024-11-10T02:52:43.566Z",
                     "updatedAt": "2024-11-10T02:52:43.566Z",
                     "publishedAt": "2024-11-10T02:52:43.583Z",
