@@ -2,7 +2,7 @@
   "data": {
     "ads": [
       {
-        "documentId": "s7mhars9w41rxlefdssu",
+        "documentId": "ad0002",
         "price": 114500,
         "finaltouch": 117000,
         "statusStep": "active",
@@ -43,7 +43,7 @@
         ]
       },
       {
-        "documentId": "s7mhar925s9w41rxleexjdnu",
+        "documentId": "ad0001",
         "price": 34244,
         "finaltouch": 7000,
         "statusStep": "active",
