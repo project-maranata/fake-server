@@ -1,0 +1,96 @@
+{
+    "data": {
+        "ad": {
+            "documentId": "ad0002",
+            "price": 114500,
+            "finaltouch": 117000,
+            "statusStep": "active",
+            "datelimit": "2024-11-30T03:15:00.000Z",
+            "address": {
+                "documentId": "3",
+                "postal_code": "88034510",
+                "street": "Rua Itapuã",
+                "state": "SC",
+                "city": "Florianópolis",
+                "country": "Brasil",
+                "number": "100",
+                "complement": "Próximo ao mercado",
+                "neighborhood": "Itacorubi"
+            },
+            "vehicle": {
+                "fab": "2023-12-18",
+                "km": 12529,
+                "model": "Kicks",
+                "brand": {
+                    "documentId": "12",
+                    "name": "Nissan",
+                    "image": {
+                        "url": ""
+                    }
+                },
+                "highlight": {
+                    "url": "https://carro.blog.br/wp-content/uploads/2018/09/nissan-kicks-2019-chega-com-boa-ficha-tecnica-e-versao-pcd.jpg"
+                }
+            }
+        },
+        "bids": [
+            {
+                "documentId": "mzuk8c2run4c9nzviahhhrz6",
+                "user": {
+                    "username": "Mauricio",
+                    "documentId": "ovibtbhkgppt437juk21",
+                    "email": "mau@gmail.com"
+                },
+                "amount": 40000,
+                "company": {
+                    "documentId": "qehtvnqts1cfk2672bbdsh",
+                    "name": "Sul Carros",
+                    "document": "4532354554",
+                    "uuid": "4535455234",
+                    "createdAt": "2024-11-10T02:52:43.566Z",
+                    "updatedAt": "2024-11-10T02:52:43.566Z",
+                    "publishedAt": "2024-11-10T02:52:43.583Z",
+                    "logo": null
+                }
+            },
+            {
+                "documentId": "npg8vmceod590ck0cnqpq9tj",
+                "user": {
+                    "username": "Maria",
+                    "documentId": "sjandiauhdapt437juk21",
+                    "email": "maria@gmail.com"
+                },
+                "amount": 35000,
+                "company": {
+                    "documentId": "apak3ndk3n2kls2ndl9",
+                    "name": "Betel Veículos",
+                    "document": "4535455421",
+                    "uuid": "4535455421",
+                    "createdAt": "2024-11-10T02:52:43.566Z",
+                    "updatedAt": "2024-11-10T02:52:43.566Z",
+                    "publishedAt": "2024-11-10T02:52:43.583Z",
+                    "logo": null
+                }
+            },
+            {
+                "documentId": "dfbqraj8v2z0ps73ebtknsav",
+                "user": {
+                    "documentId": "ovibtbhkgppt437juk9vy7ae",
+                    "username": "Carlos",
+                    "email": "jr.carlosad@gmail.com"
+                },
+                "amount": 30000,
+                "company": {
+                    "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+                    "name": "Floripa motors",
+                    "document": "45354554",
+                    "uuid": "45354554",
+                    "createdAt": "2024-11-10T02:52:43.566Z",
+                    "updatedAt": "2024-11-10T02:52:43.566Z",
+                    "publishedAt": "2024-11-10T02:52:43.583Z",
+                    "logo": null
+                }
+            }
+        ]
+    }
+}
