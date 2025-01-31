@@ -61,7 +61,6 @@
     ],
     "ad": {
       "documentId": "ad0001",
-      "title": "Palio Fire",
       "price": 34244,
       "finaltouch": 7000,
       "statusStep": "active",
@@ -76,8 +75,15 @@
       },
       "vehicle": {
         "fab": "2023-11-08",
-        "color": "Preto",
         "km": 3324,
+        "model": "Palio",
+        "brand": {
+          "documentId": "13",
+          "name": "Fiat",
+          "image": {
+            "url": ""
+          }
+        },
         "highlight": {
           "documentId": "0001",
           "alternativeText": "Palio",
