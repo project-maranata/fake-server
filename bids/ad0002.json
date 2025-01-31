@@ -1,0 +1,125 @@
+{
+  "data": {
+    "bids": [
+      {
+        "documentId": "jnz2hij0bwgy82litfsvor",
+        "amount": 109400,
+        "user": {
+          "documentId": "ovibtbhkgppt437juk9vy7ae",
+          "username": "Carlos",
+          "email": "jr.carlosad@gmail.com"
+        },
+        "company": {
+          "documentId": "qenqts1cfkgkcsz57l2lm",
+          "name": "Betel",
+          "document": "45354554",
+          "uuid": "45354554",
+          "createdAt": "2024-11-10T02:52:43.566Z",
+          "updatedAt": "2024-11-10T02:52:43.566Z",
+          "publishedAt": "2024-11-10T02:52:43.583Z",
+          "logo": null
+        },
+        "ad": {
+          "documentId": "ad0002",
+          "title": "Nissan Kicks Active",
+          "price": 114500,
+          "finaltouch": 117000,
+          "statusStep": "active",
+          "datelimit": "2024-11-30T03:15:00.000Z",
+          "createdAt": "2024-11-10T02:51:19.094Z",
+          "updatedAt": "2024-11-10T02:51:19.094Z",
+          "publishedAt": "2024-11-10T02:51:19.112Z",
+          "address": {
+            "documentId": "3",
+            "postal_code": "88034510",
+            "street": "Rua Itapuã",
+            "state": "SC",
+            "city": "Florianópolis",
+            "neighborhood": "Itacorubi"
+          },
+          "vehicle": {
+            "documentId": "vh0002",
+            "model": "Kicks Active",
+            "chassi": "7654321",
+            "renavam": "9876543213",
+            "statusVehicle": "usado",
+            "license_plate": "76754321",
+            "color_inner": "Preto",
+            "color": "Prata",
+            "fuel": "FLEX",
+            "transmission": "CVT",
+            "fab": "2023-12-18",
+            "proprietary": "proprio",
+            "km": 12529,
+            "brand": {
+              "documentId": "12",
+              "name": "Nissan",
+              "image": {
+                "url": ""
+              }
+            },
+            "highlight": {
+              "documentId": "m07332wesdrew332mh9",
+              "alternativeText": "Nissan Kicks Active",
+              "url": "https://carro.blog.br/wp-content/uploads/2018/09/nissan-kicks-2019-chega-com-boa-ficha-tecnica-e-versao-pcd.jpg"
+            }
+          }
+        }
+      },
+      {
+        "documentId": "jnz2hij0bwgy87w2litfsvor",
+        "amount": 45358.50,
+        "user": {
+          "documentId": "ovibtbhkgppt437juk9vy7ae",
+          "username": "Carlos",
+          "email": "jr.carlosad@gmail.com"
+        },
+        "company": {
+          "documentId": "qehtvnqts1cfkgkcsz57l2lm",
+          "name": "Betel",
+          "document": "45354554",
+          "uuid": "45354554",
+          "createdAt": "2024-11-10T02:52:43.566Z",
+          "updatedAt": "2024-11-10T02:52:43.566Z",
+          "publishedAt": "2024-11-10T02:52:43.583Z",
+          "logo": null
+        },
+        "ad": {
+          "documentId": "ad0001",
+          "title": "Palio Fire",
+          "price": 34244,
+          "finaltouch": 7000,
+          "statusStep": "active",
+          "datelimit": "2024-11-30T03:15:00.000Z",
+          "address": {
+            "documentId": "2",
+            "postal_code": "07160540",
+            "street": "Rua Belem",
+            "state": "SP",
+            "city": "Guarulhos",
+            "neighborhood": "Jd Novo Portugal"
+          },
+          "vehicle": {
+            "documentId": "vh0001",
+            "fab": "2023-11-08",
+            "color": "Preto",
+            "km": 3324,
+            "model": "Palio Fire",
+            "brand": {
+              "documentId": "12",
+              "name": "Fiat",
+              "image": {
+                "url": ""
+              }
+            },
+            "highlight": {
+              "documentId": "0001",
+              "alternativeText": "Palio Fire",
+              "url": "https://fotos.jornaldocarro.estadao.com.br/wp/jornal-do-carro/files/2011/10/Palio-ok.jpg"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
