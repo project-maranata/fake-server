@@ -36,6 +36,7 @@
         "bids": [
             {
                 "documentId": "mzuk8c2run4c9nzviahhhrz6",
+                "status": "Liderando",
                 "user": {
                     "username": "Mauricio",
                     "documentId": "ovibtbhkgppt437juk21",
@@ -58,6 +59,7 @@
             },
             {
                 "documentId": "npg8vmceod590ck0cnqpq9tj",
+                "status": "Superado",
                 "user": {
                     "username": "Maria",
                     "documentId": "sjandiauhdapt437juk21",
@@ -80,6 +82,7 @@
             },
             {
                 "documentId": "dfbqraj8v2z0ps73ebtknsav",
+                "status": "Superado",
                 "user": {
                     "documentId": "ovibtbhkgppt437juk9vy7ae",
                     "username": "Carlos",
